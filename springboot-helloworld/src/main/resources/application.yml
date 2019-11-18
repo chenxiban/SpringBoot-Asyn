@@ -1,0 +1,7 @@
+#应用端口
+server: 
+  port: 28080
+  #应用项目名称
+  servlet: 
+    context-path: /my66
+
