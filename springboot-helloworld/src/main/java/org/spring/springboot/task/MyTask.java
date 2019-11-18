@@ -3,7 +3,7 @@ package org.spring.springboot.task;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;
 
-@Component
+@Component 
 public class MyTask {
 
 //	@Async
